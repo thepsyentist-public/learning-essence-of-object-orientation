@@ -1,8 +1,7 @@
 ## 객체지향의 사실과 오해
 <br />
 
-<img src="![image](https://github.com/thepsyentist-public/learning-essence-of-object-orientation/assets/137966751/8c464a0a-b171-43d4-ad62-bb812ccb14c1)
-" width="300" alt="객체지향의 사실과 오해 책 이미지" />
+<img src="https://github.com/thepsyentist-public/learning-essence-of-object-orientation/assets/137966751/8c464a0a-b171-43d4-ad62-bb812ccb14c1" width="300" alt="객체지향의 사실과 오해 책 이미지" />
 
 
 ## 📚 스터디 진행방식
