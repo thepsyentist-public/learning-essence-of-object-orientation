@@ -568,7 +568,7 @@ class MenuItem {
 }
 ```
 
-![Untitled](https://github.com/thepsyentist-public/learning-essence-of-object-orientation/assets/137966751/9733fc77-ffc5-4518-93a1-5f92c76e60fe)
+![Untitled 3](https://github.com/thepsyentist-public/learning-essence-of-object-orientation/assets/137966751/dfa3d581-40ae-4d18-8a69-3f3d8cfd7dec)
 
 
 `MenuItem`의 인터페이스를 구성하는 오퍼레이션들을 `MenuItem` 을 구현하는 단계에 와서야 식별했다는 점을 눈여겨보기 바란다. 인터페이스를 통해 실제로 상호작용을 해보지 않은 채 인터페이스의 모습을 정확하게 예측하는 것은 불가능에 가깝다. 
